@@ -1,10 +1,10 @@
 ## 1. Помогатор
 
 Учасники проекта: 
-- @ne_necoffeee
-- @Mahmadmurod
-- @Ufpngh5
-- @local_dan
+- [@ne_necoffeee](https://t.me/ne_necoffeee)
+- [@Mahmadmurod](https://t.me/Mahmadmurod)
+- [@Ufpngh5](https://t.me/Ufpngh5)
+- [@local_dan](https://t.me/local_dan)
 
 Dev 1, Dev 2, Dev 3, Dev 4 еще не определены. 
 
