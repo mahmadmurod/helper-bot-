@@ -55,6 +55,7 @@ def models_menu_kb(provider_code: str) -> InlineKeyboardMarkup:
 
     return InlineKeyboardMarkup(inline_keyboard=buttons)
 
+
 def settings_menu_kb() -> InlineKeyboardMarkup:
     """Меню настроек (/settings)"""
     keyboard = [
